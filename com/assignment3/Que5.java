@@ -1,5 +1,16 @@
 package com.assignment3;
 
+// Q 5    Design a class to represent bank account. Include members:
+// a.    Data members
+// i.      Name of depositor
+// ii.    Account number
+// iii.    Type of account
+// iv.    Balance amount
+// b.    Methods
+// i.    To assign value  
+// ii.    To deposit amount
+// iii.    To withdraw amount
+// iv.    To display name and balance .
 import java.util.Scanner;
 
 class BankAccount {
