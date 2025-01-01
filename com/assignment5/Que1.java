@@ -16,15 +16,13 @@ import java.util.Scanner;
 class Class1 {
 
     void cube(int a) {
-        System.out.println("cube of" + a + " : " + a * a * a);
+        System.out.println("cube of " + a + " : " + a * a * a);
     }
 
-    ;
     void square(int b) {
         System.out.println("square of " + b + " : " + b * b);
     }
 
-    ;
     void greater(int a, int b, int c) {
         if (a > b && a > c) {
             System.out.println("greatest among 3 : " + a);
